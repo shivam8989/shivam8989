@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Smart city application<br>I'm looking to collaborate on Backend development<br>I'm looking for help with Application Programming Interface<br>I'm currently learning Spring framework<br>Ask me About problem solving related queries<br>Always to be there as a learner
+I'm currently working as Full Stack Developer Intern at Besant Technology<br>I'm looking to collaborate on Backend development<br>I'm looking for help with Application Programming Interface<br>I'm currently learning Spring framework<br>Ask me About problem solving related queries<br>Always to be there as a learner
 
 
 ## 🌐 Socials:
